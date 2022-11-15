@@ -40,7 +40,7 @@
 
 
 
-<img src="/os/img/01.img" style="zoom:50%;" />
+<img src="/os/image/01.png" style="zoom:50%;" />
 
 
 
